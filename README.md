@@ -1,0 +1,1 @@
+# Tugas-2-Kecerdasan-Artifisial-21081070100600
