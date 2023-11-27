@@ -1,4 +1,4 @@
-# Tugas-2-Kecerdasan-Artifisial-21081070100600
+# Tugas-2-Kecerdasan-Artifisial-2108107010060
 
 ## Nama: Muhammad Rayyan Azzuhri
 ## NPM: 2108107010060
